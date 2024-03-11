@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithin Addanki</h1>
 <h3 align="center">🍃 A passionate frontend developer from India</h3>
+![](https://komarev.com/ghpvc/?username=nithin1456)
 
 - 🌱 I’m currently learning **React, django, TensorFlow**
 
