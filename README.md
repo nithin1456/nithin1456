@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithin Addanki</h1>
 <h3 align="center">🍃 A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, django, TensorFlow**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 🔭 Proficient in **HTML, CSS, and JavaScript**
 
