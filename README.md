@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **React, django, TensorFlow**
 
-- 📫 How to reach me **www.linkedin.com/in/nithin-addanki**
+- 🔭 Proficient in **HTML, CSS, and JavaScript**
 
 - 💬 Ask me about **Anime😁**
+
+- 📫 How to reach me **@linkdin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
