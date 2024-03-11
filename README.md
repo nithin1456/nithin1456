@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, django, TensorFlow**
 
-- 📫 How to reach me **https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg**
+- 📫 How to reach me **www.linkedin.com/in/nithin-addanki**
 
 - 💬 Ask me about **Anime😁**
 
