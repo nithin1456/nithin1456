@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin1456&label=Profile%20views&color=0e75b6&style=flat" alt="nithin1456" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 🔭 Proficient in **HTML, CSS, and JavaScript**
 
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **Anime😁**
 
 - 📫 How to reach me **nithinaddanki244@gmail.com**
