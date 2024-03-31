@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithin1456&label=Profile%20views&color=0e75b6&style=flat" alt="nithin1456" /> </p>
 
-- 🔭 Proficient in **HTML, CSS, and JavaScript**
+- 🔭 Proficient in **HTML, CSS,JavaScript and Python**
 
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Anime😁**
