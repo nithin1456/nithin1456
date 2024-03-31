@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning : **React**
 - 💬 Ask me about : **FrontEnd😁**
 
-- 📫 How to reach me **nithinaddanki244@gmail.com**
+- ⚡ In my free time : **Browsing internet 🧑‍💻, Reading blogs📖, Gaming 🕹️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
