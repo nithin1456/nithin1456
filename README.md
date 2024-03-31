@@ -5,8 +5,8 @@
 
 - 🔭 Proficient in **HTML, CSS, JavaScript and Python**
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **FrontEnd😁**
+- 🌱 I’m currently learning : **React**
+- 💬 Ask me about : **FrontEnd😁**
 
 - 📫 How to reach me **nithinaddanki244@gmail.com**
 
